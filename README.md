@@ -1,2 +1,2 @@
 # hello-word
-Just a new repository
+Maxim's first project with git
